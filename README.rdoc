@@ -4,3 +4,5 @@
 
 * Ruby version 2.2.2
 
+Testing Minitest in Ruby on Rail
+
